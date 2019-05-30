@@ -1,0 +1,6 @@
+.idea/
+target/
+*.log
+bin/test-output/
+*.class
+test-output/
